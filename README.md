@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Haillander, i'm Brazilian, living in Sydney, Australia for more then 6 years.<br>
+👋 Hi, I’m @Haillander, Brazilian, living in Sydney, Australia for more then 6 years.<br>
 🌱 I’m currently learning Full Stack Web Development at University of Sydney<br>
 
 My profissional background is Mechanical Engineer. I highly bring project management skills, leadership skills, communication skills and a lifetime working in a fast-paced high-pressure environments.
