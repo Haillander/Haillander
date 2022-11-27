@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m @Haillander<br>👀 I’m interested in Front End software Development<br>🌱 I’m currently learning Full Stack Web Development at University of Sydney<br>💞️ I’m looking to collaborate on software projects<br>📫 How to reach me by Linkedln: https://www.linkedin.com/in/haillander-lopes-viana-568a8b63/<br>
+👋 Hi, I’m @Haillander, Full Stack Development Stundent. i'm Brazilian, living in Sydney, Australia for more then 6 years.
+
+My profissional background is Mechanical Engineer. I highly bring project management skills, leadership
+skills, communication skills and a lifetime working in a fast-paced high-pressure environments.
+
+I have been enthusiastic for Front-End Development as it satisfies my need for creativity and allows
+me to easily put my ideas into digital form and get results back quick.
+ <br>👀 I’m interested in Front End software Development<br>🌱 I’m currently learning Full Stack Web Development at University of Sydney<br>💞️ I’m looking to collaborate on software projects<br>📫 How to reach me by Linkedln: https://www.linkedin.com/in/haillander-lopes-viana-568a8b63/<br>
 
 
 ## 🌐 Socials:
