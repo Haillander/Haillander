@@ -1,8 +1,13 @@
 # 💫 About Me:
-👋 Hi, I’m @Haillander, Brazilian, living in Sydney, Australia for more then 6 years.<br>
-🌱 I’m currently studying Full Stack Web Development at University of Sydney<br>
+👋 Hi, I’m @Haillander, Brazilian, living in Sydney, Australia.<br>
+🌱 I recently graduated from the University of Sydney's Full Stack Coding
+Bootcamp, where I gained extensive experience in developing web applications
+using a variety of tools and technologies for both the frontend and the
+backend.<br>
 
-My profissional background is Mechanical Engineer. I highly bring project management skills, leadership skills, communication skills and a lifetime working in a fast-paced high-pressure environments.
+My background in Mechanical Engineering and Project Coordinator
+has really helped me sharpen my problem-solving skills and work effectively in
+teams
 
 <br>👀 I have been enthusiastic for Front-End Development as it satisfies my need for creativity and allows
 me to easily put my ideas into digital form and get results back quick.<br>💞️ I’m looking to collaborate on software projects<br>📫 How to reach me<br>
