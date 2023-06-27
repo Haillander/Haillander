@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @Haillander, Brazilian, living in Sydney, Australia.<br><br>Mechanical Engineer transitioning into a Data Analyst role <br>after completing The University Of Sydney Full-Stack Coding Bootcamp<br><br>I have 6+ years working in the construction industry in Australia. Leading, Managing people <br>and working with Project Managers and Engineers. <br><br>Core Skills include extrapolating data and providing actionable insights aligned with computer science, modeling and statistics.<br>My background in Mechanical Engineering and Project Coordinator has really helped me <br>sharpen my problem-solving skills and work effectively in teams<br><br><br><br>
+Hi, I’m @Haillander, Brazilian, living in Sydney, Australia.<br><br>Mechanical Engineer transitioning into a Data Analyst career <br>after completing The University Of Sydney Full-Stack Coding Bootcamp<br><br>I have 6+ years working in the construction industry in Australia. Leading, Managing people <br>and working with Project Managers and Engineers. <br><br>Core Skills include extrapolating data and providing actionable insights aligned with computer science, modeling and statistics.<br>My background in Mechanical Engineering and Project Coordinator has really helped me <br>sharpen my problem-solving skills and work effectively in teams<br><br><br><br>
 
 
 ## 🌐 Socials:
